@@ -1,0 +1,18 @@
+{
+  "name": "cp-mof-structure-lab",
+  "version": "1.0.0",
+  "description": "Browser-based batch analysis of CIF files of coordination polymers and metal–organic frameworks",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "test": "node --test tests/core.test.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hafidzouihri-tech/cp-mof-structure-lab.git"
+  },
+  "keywords": ["crystallography", "CIF", "coordination polymers", "MOF"]
+}

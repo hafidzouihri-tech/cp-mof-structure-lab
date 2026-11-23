@@ -1,0 +1,10 @@
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
+# exports produced while testing the app
+*.xlsx
+*.docx
+*.mp4
+*.webm
+*_dpi.png

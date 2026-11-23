@@ -1,0 +1,23 @@
+{
+  "title": "Coordination Polymer & MOF Structure Lab",
+  "description": "Browser-based batch analysis of CIF files of metal–organic complexes, coordination polymers and metal–organic frameworks: network dimensionality and interpenetration, secondary building units, metal coordination geometry and distortion (continuous shape measures, bond-valence sums), ligand binding modes, hydrogen bonds, π–π stacking and porosity, with tables, figures, a 3D viewer and a Word report. Single self-contained HTML file, no installation.",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "license": "MIT",
+  "creators": [
+    {
+      "name": "[Family name], [Given names]",
+      "affiliation": "Université Ibn Tofail, Kénitra, Morocco",
+      "orcid": "0000-0000-0000-0000"
+    }
+  ],
+  "keywords": [
+    "crystallography",
+    "CIF",
+    "coordination polymers",
+    "metal–organic frameworks",
+    "continuous shape measures",
+    "bond valence",
+    "porosity"
+  ]
+}
